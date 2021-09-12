@@ -1,3 +1,3 @@
-# Project Title
+# Project: Recipes
 
-The Odin Project - HTML Foundations - Project: Recipes
+The Odin Project - HTML Foundations
